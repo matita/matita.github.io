@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Example content
+published: false
 ---
+
 
 
 <div class="message">
