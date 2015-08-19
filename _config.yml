@@ -9,7 +9,7 @@ title:               Matita
 tagline:             'Thoughts'
 description:         'Just a bin for stuff I think/do/postpone.'
 url:                 https://matita.github.io
-baseurl:             '//matita.github.io'
+baseurl:             ''
 paginate:            5
 
 # About/contact
