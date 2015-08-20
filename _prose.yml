@@ -21,14 +21,9 @@ prose:
           value: "post"
       - name: "published"
         field:
-          element: "select"
+          element: "checkbox"
           label: "Published"
           value: false
-          options:
-            - name: "False"
-              value: false
-            - name: "True"
-              value: true
     _posts/static:
       - name: "layout"
         field:
