@@ -18,5 +18,11 @@ author:
   url:               https://twitter.com/il_matita
   email:             matitald@gmail.com
 
+profiles:
+  - name: Twitter
+    url: https://twitter.com/il_matita
+  - name: LinkedIn
+    url: https://it.linkedin.com/pub/matteo-colucci/14/69b/8a0
+
 # Custom vars
 version:             1.0.0
