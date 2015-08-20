@@ -31,3 +31,10 @@ I still haven't do it. I found a solution that didn't force me to install anythi
 ## Fork Lanyon theme on GitHub
 
 After spending some time searching some beautiful theme for my blog (because of Medium I cannot stand sidebars anymore, and most of Jekyll themes seem like late 90s websites...) I came across the wonderful [Lanyon](http://lanyon.getpoole.com/)
+
+## Set up prose.io
+
+## Make some customization
+
+### Add social network links on sidebar
+### Add Google Analytics
