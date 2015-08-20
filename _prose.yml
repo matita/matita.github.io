@@ -23,6 +23,7 @@ prose:
         field:
           element: "select"
           label: "Published"
+          value: false
           options:
             - name: "False"
               value: false
