@@ -6,6 +6,7 @@ title: How I set up my blog with Jekyll and GitHub Pages
 
 
 
+
 I spent some time trying to understand which should be the best choice for me to start writing a blog.  
 
 I used to have a WordPress blog on my personal web site, but there were some points that I didn't like:
@@ -30,7 +31,7 @@ I still haven't do it. I found a solution that didn't force me to install anythi
 
 ## Fork Lanyon theme on GitHub
 
-After spending some time searching some beautiful theme for my blog (because of Medium I cannot stand sidebars anymore, and most of Jekyll themes seem like late 90s websites...) I came across the wonderful [Lanyon](http://lanyon.getpoole.com/)
+After spending some time searching some beautiful theme for my blog (Medium changed my graphical tastes, and most of Jekyll themes seem like late 90s websites...) I came across the wonderful [Lanyon](http://lanyon.getpoole.com/)
 
 ## Set up prose.io
 
