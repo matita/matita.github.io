@@ -8,6 +8,7 @@ title: Ideas for clocks web app
 Since I often need to know what time it is in different cities in the world for work, I'm thinking about writing a simple web app to show me the different times.
 
 Here are the specs:
+
 * clean and simple
 * mobile friendly and accessible offline
 * it should take Daylight Saving Time into account
@@ -15,6 +16,7 @@ Here are the specs:
 * autocomplete to add a new city/clock (with actual cities)
 
 Optional
+
 * set a specific time and know what is equivalent in other cities
 * manually sort the clocks
 
