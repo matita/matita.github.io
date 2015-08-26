@@ -31,7 +31,9 @@ I still haven't do it. I found a solution that didn't force me to install anythi
 
 ## Fork Lanyon theme on GitHub
 
-After spending some time searching some beautiful theme for my blog (Medium changed my graphical tastes, and most of Jekyll themes seem like late 90s websites...) I came across the wonderful [Lanyon](http://lanyon.getpoole.com/)
+After spending some time searching some beautiful theme for my blog (Medium changed my graphical tastes, and most of Jekyll themes seem like late 90s websites...) I came across the wonderful [Lanyon](http://lanyon.getpoole.com/).
+
+It is based on [Poole](http://getpoole.com/), an easy bootstrap for a Jekyll blog on Github Pages, it basically adds a hideable side bar to the standard theme. Plus its design is very similar to Medium style, but not exactly the same (I hate reading a blog that pretend to be Medium but is not Medium itself). Plus it's done by [Mark Otto](http://markdotto.com/) ([@mdo](https://twitter.com/mdo)), the brilliant mind behind [Bootstrap](http://getbootstrap.com/).
 
 ## Set up prose.io
 
