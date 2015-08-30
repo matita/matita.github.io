@@ -7,6 +7,7 @@ title: How I set up my blog with Jekyll and GitHub Pages
 
 
 
+
 I spent some time trying to understand which should be the best choice for me to start writing a blog.  
 
 I used to have a WordPress blog on my personal web site, but there were some points that I didn't like:
@@ -33,7 +34,7 @@ I still haven't do it. I found a solution that didn't force me to install anythi
 
 After spending some time searching some beautiful theme for my blog (Medium changed my graphical tastes, and most of Jekyll themes seem like late 90s websites...) I came across the wonderful [Lanyon](http://lanyon.getpoole.com/).
 
-It is based on [Poole](http://getpoole.com/), an easy bootstrap for a Jekyll blog on Github Pages, it basically adds a hideable side bar to the standard theme. Plus its design is very similar to Medium style, but not exactly the same (I hate reading a blog that pretend to be Medium but is not Medium itself). Plus it's done by [Mark Otto](http://markdotto.com/) ([@mdo](https://twitter.com/mdo)), the brilliant mind behind [Bootstrap](http://getbootstrap.com/).
+It is based on [Poole](http://getpoole.com/), an easy bootstrap for a Jekyll blog on Github Pages, it basically adds a hideable side bar to the standard theme. Plus its design is very similar to Medium style, but not exactly the same (I hate reading a blog that pretends to be Medium but is not Medium itself). Plus it's done by [Mark Otto](http://markdotto.com/) ([@mdo](https://twitter.com/mdo)), the brilliant mind behind [Bootstrap](http://getbootstrap.com/).
 
 ## Set up prose.io
 
