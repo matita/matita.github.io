@@ -1,0 +1,36 @@
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://matita.github.io/'
+  relativeLinks: 'https://matita.github.io/links.jsonp'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
