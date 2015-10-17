@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Matita
 tagline:             'Thoughts'
 description:         'Just a bin for stuff I think/do/postpone.'
-url:                 https://matita.github.io
+url:                 http://matita.github.io
 baseurl:             ''
 paginate:            5
 
