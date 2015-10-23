@@ -16,7 +16,7 @@ You can find it [here](http://matita.github.io/gotojira-bookmarklet/).
 
 Just fill the form with the projects short names (the first part of an issue ID) and the URL of where the related JIRA installation is, then drag the the bookmarklet on your bookmarks bar and you're done!
 
-Don't worry, it's everything client side and I won't track your super secret JIRA locations. If you don't trust me you can see it yourself in the source code on [GitHub](https://github.com/matita/gotojira-bookmarklet).
+Don't worry, it's everything client side and I won't track your super secret JIRA locations. If you don't trust me you can see it by yourself in the source code on [GitHub](https://github.com/matita/gotojira-bookmarklet).
 
 When you select an issue ID and click on the bookmarklet you're automagically redirected to the correct JIRA page.
 
