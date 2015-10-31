@@ -3,4 +3,4 @@
   <meta name="twitter:creator" content="@il_matita">
   {% if page.title == 'Home' %}<meta name="twitter:title" content="{{ site.title }}">{% else %}<meta name="twitter:title" content="{{ page.title }}">{% endif %}
   {% if page.url %}<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">{% endif %}
-  {% if page.title == 'Home' %}<meta name="twitter:description" content="{{ site.description }}">{% else if page.content %}<meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">{% endif %}
+  {% if page.title == 'Home' %}<meta name="twitter:description" content="{{ site.description }}">{% elsif page.content %}<meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">{% else %}<meta name="twitter:description" content="">{% endif %}
