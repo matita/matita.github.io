@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Matita
-tagline:             'Thoughts'
+tagline:             'Thoughts and experiments'
 description:         'Just a bin for stuff I think/do/postpone.'
 url:                 http://matita.github.io
 baseurl:             ''
