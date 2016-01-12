@@ -6,7 +6,7 @@ tags: "github pages, jekyll, windows"
 ---
 
 
-Recently I needed to install Jekyll on my Windows computer, mostly for a project I'm working on using GitHub Pages.
+Recently I needed to install Jekyll on my Windows computer, mostly for a project I'm working on using GitHub Pages.  
 It was not necessary, but testing the development locally is always better and faster than editing some file, git add-git commit-git push and wait for GitHub Pages to render the website.
 
 It seems like installing Jekyll on Windows is not that easy, but following [Nathan Totten's instructions](https://ntotten.com/2012/03/02/github-pages-with-jekyll-local-development-on-windows/) it turned out to be very simple.
@@ -32,7 +32,6 @@ In the same [Ruby downloads page](http://rubyinstaller.org/downloads/) download 
 Open a command line in **C:\DevKit** (or where you extracted the Development Kit) and execute the commands:
 ```  
 ruby dk.rb init  
-
 ruby dk.rb install  
 ```
   
