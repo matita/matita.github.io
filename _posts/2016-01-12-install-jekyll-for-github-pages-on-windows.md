@@ -6,6 +6,7 @@ tags: "github pages, jekyll, windows"
 ---
 
 
+
 Recently I needed to install Jekyll on my Windows computer, mostly for a project I'm working on using GitHub Pages.  
 It was not necessary, but testing the development locally is always better and faster than editing some file, git add-git commit-git push and wait for GitHub Pages to render the website.
 
@@ -31,8 +32,11 @@ In the same [Ruby downloads page](http://rubyinstaller.org/downloads/) download 
 
 Open a command line in **C:\DevKit** (or where you extracted the Development Kit) and execute the commands:
 
-    ruby dk.rb init
-    ruby dk.rb install
+```
+ruby dk.rb init
+ruby dk.rb install
+something
+```
   
 The first time I executed the `install` command it gave me the error `Invalid configuration or no Rubies listed. Please fix 'config.yml' and rerun 'ruby dk.rb install'`, so I edited `C:\DevKit\config.yml` by putting the folder where I had installed Ruby, so the file is now like this (excluding the comments):
 
