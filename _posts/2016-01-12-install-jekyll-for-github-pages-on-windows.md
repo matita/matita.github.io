@@ -38,8 +38,8 @@ ruby dk.rb install
   
 The first time I executed the `install` command it gave me the error `Invalid configuration or no Rubies listed. Please fix 'config.yml' and rerun 'ruby dk.rb install'`, so I edited `C:\DevKit\config.yml` by putting the folder where I had installed Ruby, so the file is now like this (excluding the comments):
 ```
---- 
-- C:/Ruby22-x64 
+---  
+- C:/Ruby22-x64  
 ```
 
 and reran `ruby dk.rb install`.
