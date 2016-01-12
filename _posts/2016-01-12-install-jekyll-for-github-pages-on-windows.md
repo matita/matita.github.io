@@ -5,6 +5,7 @@ title: Install Jekyll for GitHub Pages on Windows
 tags: "github pages, jekyll, windows"
 ---
 
+
 Recently I needed to install Jekyll on my Windows computer, mostly for a project I'm working on using GitHub Pages.
 It was not necessary, but testing the development locally is always better and faster than editing some file, git add-git commit-git push and wait for GitHub Pages to render the website.
 
@@ -29,15 +30,15 @@ Go to [Ruby downloads page](http://rubyinstaller.org/downloads/), download the d
 In the same [Ruby downloads page](http://rubyinstaller.org/downloads/) download the right Development Kit under the section "Other Useful Downloads / Development Kit" (mine was **For use with Ruby 2.0 and above (x64 - 64bits only)**), execute it and extract it in a folder (for me **C:\DevKit**).
 
 Open a command line in **C:\DevKit** (or where you extracted the Development Kit) and execute the commands:
-```
-ruby dk.rb init
-ruby dk.rb install
+```  
+ruby dk.rb init  
+ruby dk.rb install  
 ```
   
 The first time I executed the `install` command it gave me the error `Invalid configuration or no Rubies listed. Please fix 'config.yml' and rerun 'ruby dk.rb install'`, so I edited `C:\DevKit\config.yml` by putting the folder where I had installed Ruby, so the file is now like this (excluding the comments):
 ```
----
-- C:/Ruby22-x64
+---  
+- C:/Ruby22-x64  
 ```
 and reran `ruby dk.rb install`.
 
@@ -49,8 +50,8 @@ As I said earlier the Jekyll version has to be compatible with GitHub Pages' Jek
 I first tried the Bundler approach but it gave me some error, so I created a file named `Gemfile` in the root directory of the repository I needed with this content:
 
 ```
-source 'https://rubygems.org'
-gem 'github-pages'
+source 'https://rubygems.org'  
+gem 'github-pages'  
 ```
 
 Then run `gem install github-pages` in the command line and the correct Jekyll version with all its dependencies is installed.
@@ -61,7 +62,7 @@ Then run `gem install github-pages` in the command line and the correct Jekyll v
 To avoid unnecessary file exchange when pushing or pulling from git, edit the `.gitignore` file in the root directory of your repository by appending these lines:
 
 ```
-Gemfile
+Gemfile  
 _site
 ```
 
