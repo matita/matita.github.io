@@ -53,7 +53,7 @@ As I said earlier the Jekyll version has to be compatible with GitHub Pages' Jek
 
 I first tried the Bundler approach but it gave me some error, so I created a file named `Gemfile` in the root directory of the repository I needed with this content:
 
-``` javascript
+```
 source 'https://rubygems.org'
 gem 'github-pages'
 ```
