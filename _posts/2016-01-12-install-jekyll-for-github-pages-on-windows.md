@@ -32,6 +32,7 @@ In the same [Ruby downloads page](http://rubyinstaller.org/downloads/) download 
 Open a command line in **C:\DevKit** (or where you extracted the Development Kit) and execute the commands:
 ```  
 ruby dk.rb init  
+
 ruby dk.rb install  
 ```
   
