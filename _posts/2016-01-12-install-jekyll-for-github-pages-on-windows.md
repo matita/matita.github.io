@@ -65,7 +65,7 @@ Then run `gem install github-pages` in the command line and the correct Jekyll v
 
 To avoid unnecessary file exchange when pushing or pulling from git, edit the `.gitignore` file in the root directory of your repository by appending these lines:
 
-````
+```
 Gemfile
 _site
 ```
