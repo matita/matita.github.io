@@ -39,8 +39,8 @@ ruby dk.rb install
 The first time I executed the `install` command it gave me the error `Invalid configuration or no Rubies listed. Please fix 'config.yml' and rerun 'ruby dk.rb install'`, so I edited `C:\DevKit\config.yml` by putting the folder where I had installed Ruby, so the file is now like this (excluding the comments):
 
 ```
----  
-- C:/Ruby22-x64  
+--- 
+- C:/Ruby22-x64 
 ```
 
 and reran `ruby dk.rb install`.
@@ -53,7 +53,7 @@ As I said earlier the Jekyll version has to be compatible with GitHub Pages' Jek
 I first tried the Bundler approach but it gave me some error, so I created a file named `Gemfile` in the root directory of the repository I needed with this content:
 
 ```
-source 'https://rubygems.org'  
+source 'https://rubygems.org' 
 gem 'github-pages'  
 ```
 
