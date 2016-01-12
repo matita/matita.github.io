@@ -30,16 +30,19 @@ Go to [Ruby downloads page](http://rubyinstaller.org/downloads/), download the d
 In the same [Ruby downloads page](http://rubyinstaller.org/downloads/) download the right Development Kit under the section "Other Useful Downloads / Development Kit" (mine was **For use with Ruby 2.0 and above (x64 - 64bits only)**), execute it and extract it in a folder (for me **C:\DevKit**).
 
 Open a command line in **C:\DevKit** (or where you extracted the Development Kit) and execute the commands:
+
 ```  
 ruby dk.rb init  
 ruby dk.rb install  
 ```
   
 The first time I executed the `install` command it gave me the error `Invalid configuration or no Rubies listed. Please fix 'config.yml' and rerun 'ruby dk.rb install'`, so I edited `C:\DevKit\config.yml` by putting the folder where I had installed Ruby, so the file is now like this (excluding the comments):
+
 ```
 ---  
 - C:/Ruby22-x64  
 ```
+
 and reran `ruby dk.rb install`.
 
 
