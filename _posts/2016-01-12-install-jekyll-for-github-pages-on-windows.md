@@ -31,16 +31,17 @@ In the same [Ruby downloads page](http://rubyinstaller.org/downloads/) download 
 
 Open a command line in **C:\DevKit** (or where you extracted the Development Kit) and execute the commands:
 
-```  
+{% highlight %}
 ruby dk.rb init  
 ruby dk.rb install  
-```
+{% endhighlight %}
   
 The first time I executed the `install` command it gave me the error `Invalid configuration or no Rubies listed. Please fix 'config.yml' and rerun 'ruby dk.rb install'`, so I edited `C:\DevKit\config.yml` by putting the folder where I had installed Ruby, so the file is now like this (excluding the comments):
-```
+
+{% highlight %}
 ---  
 - C:/Ruby22-x64  
-```
+{% endhighlight %}
 
 and reran `ruby dk.rb install`.
 
@@ -51,10 +52,10 @@ As I said earlier the Jekyll version has to be compatible with GitHub Pages' Jek
 
 I first tried the Bundler approach but it gave me some error, so I created a file named `Gemfile` in the root directory of the repository I needed with this content:
 
-```
+{% highlight %}
 source 'https://rubygems.org' 
 gem 'github-pages'  
-```
+{% endhighlight %}
 
 Then run `gem install github-pages` in the command line and the correct Jekyll version with all its dependencies is installed.
 
@@ -63,10 +64,10 @@ Then run `gem install github-pages` in the command line and the correct Jekyll v
 
 To avoid unnecessary file exchange when pushing or pulling from git, edit the `.gitignore` file in the root directory of your repository by appending these lines:
 
-```
-Gemfile 
+{% highlight %}
+Gemfile
 _site
-```
+{% endhighlight %}
 
 The `_site` folder is where Jekyll outputs the rendered files, it is unnecessary (maybe dangerous?) to have git sync that folder with GitHub since GitHub Pages renders the site itself.
 
