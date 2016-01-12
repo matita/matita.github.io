@@ -12,6 +12,10 @@ url:                 http://matita.github.io
 baseurl:             ''
 paginate:            5
 
+markdown: kramdown
+kramdown:
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+
 # About/contact
 author:
   name:              Matita
