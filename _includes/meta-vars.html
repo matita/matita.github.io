@@ -1,0 +1,5 @@
+{% if page.title == 'Home' %}{% assign is_home = true %}{% else %}{% assign is_home = false %}{% endif %}
+{% capture title %}{% if is_home %}{{ site.title }}{% else %}{{ page.title }}{% endif %}{% endcapture %}
+{% capture description %}{% if is_home %}{{ site.description }}{% elsif page.content %}{{ page.content | strip_html | xml_escape | strip_newlines | truncate: 200 }}{% else %}{% endif %}{% endcapture %}
+{% capture url %}{{ site.url }}{% if is_home %}/{% else %}{{ page.url }}{% endif %}{% endcapture %}
+{% capture tags %}{% if page.tags %}{{ page.tags | join: ' ' }}{% endif %}{% endcapture %}
