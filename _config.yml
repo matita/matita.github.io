@@ -28,7 +28,7 @@ profiles:
     url: https://twitter.com/il_matita
   - name: LinkedIn
     url: https://www.linkedin.com/in/matteocolucci
-    
+
 google_analytics: 'UA-66560068-1'
 
 # Custom vars
