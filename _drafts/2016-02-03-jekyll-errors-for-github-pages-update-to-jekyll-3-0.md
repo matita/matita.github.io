@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Jekyll errors for GitHub Pages update to Jekyll 3.0
+tags: "github pages, jekyll, jekyll 3.0"
 ---
 
 
