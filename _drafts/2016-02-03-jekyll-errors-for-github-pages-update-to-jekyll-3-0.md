@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Jekyll errors for GitHub Pages update to Jekyll 3.0
 ---
 
@@ -60,3 +60,18 @@ var post = {
 ```
 
 I don't like this solution very much, but it works for now since currently I only need these properties for the rendered post. If I'll come up with a better solution I'll write about this.
+
+## Jekyll-paginate plugin
+
+Another error that popped up was: 
+
+```
+Deprecation: You appear to have pagination turned on, but you haven't included the `jekyll-paginate` gem. Ensure you have `gems: [jekyll-paginate]` in your configuration file.
+```
+
+I just had to add to `_config.yml` these lines:
+
+``` yml
+gems:
+  - jekyll-paginate
+```
