@@ -5,7 +5,9 @@ title: Jekyll errors for GitHub Pages update to Jekyll 3.0
 ---
 
 
-Quite recently [GitHub Pages updated to Jekyll 3.0](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0).
+Quite recently [GitHub Pages updated to Jekyll 3.0](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0). As every migration it could bring to some issues, so here are my findings for a project that I'm working on.
+
+Since it is not a basic blog but a bit more complex project, I suspect I will find some more issues. I'm writing those as soon as I'll find them.
 
 ## `relative_permalinks` compatibility
 
@@ -34,3 +36,27 @@ bundle install
 ```
 
 resolved my issue.
+
+## Stack level too deep exception
+
+I thought it was all good! But I was wrong...
+
+When I ran `jekyll serve` it gave me a `stack level too deep exception in _layout/post.html`.
+
+Again Google gave me some hint by pointing me at [an issue](https://github.com/jekyll/jekyll/issues/3207) on Jekyll GitHub repository.
+
+I searched for all the occurences of `jsonify` in my templates and I found I was using `var post = {{ page | jsonify }};`.
+
+I tried to replace it with `var post = {{ page }};` and so I could `jekyll serve` without errors.
+
+Unfortunately this would not work for me since the output of `{{ page }}` is obviously not a valid json, so I had to replace that row in my template with this:
+
+``` javascript
+var post = {
+	title   : {{ page.title | jsonify }},
+    path    : {{ page.path | jsonify }},
+    content : {{ page.content | jsonify }}
+};
+```
+
+I don't like this solution very much, but it works for now since currently I only need these properties for the rendered post. If I'll come up with a better solution I'll write about this.
