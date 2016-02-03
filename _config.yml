@@ -2,7 +2,6 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 gems:
   - jekyll-sitemap
 
@@ -13,6 +12,9 @@ description:         'Just a bin for stuff I think/do/postpone.'
 url:                 http://matita.github.io
 baseurl:             ''
 paginate:            5
+
+gems:
+  - jekyll-paginate
 
 markdown: kramdown
 kramdown:
