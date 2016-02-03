@@ -6,17 +6,18 @@ tags: "github pages, jekyll, jekyll 3.0"
 ---
 
 
+
 Quite recently [GitHub Pages updated to Jekyll 3.0](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0). As every migration it could bring to some issues, so here are my findings for a project that I'm working on.
 
 Since it is not a basic blog but a bit more complex project, I suspect I will find some more issues. I'm writing those as soon as I'll find them.
 
-## `relative_permalinks` compatibility
+## 1. `relative_permalinks` compatibility
 
 I started to acknowledge it before the announcement since some warning about the compatibility with Jekyll 3.0 of `relative_permalinks` configuration in `_config.yml`.
 
 This was easy: I just removed the `relative_permalinks` clause in the config file and the problem disappeared.
 
-## Missing dependency: kramdown
+## 2. Missing dependency: kramdown
 
 But, after the announcement, I couldn't build anymore the site for a project I am working on, so I `git pull`ed, updated my local project dependencies with `gem update github-pages` and tried to `jekyll serve`.
 
@@ -38,7 +39,7 @@ bundle install
 
 resolved my issue.
 
-## Stack level too deep exception
+## 3. Stack level too deep exception
 
 I thought it was all good! But I was wrong...
 
@@ -62,7 +63,7 @@ var post = {
 
 I don't like this solution very much, but it works for now since currently I only need these properties for the rendered post. If I'll come up with a better solution I'll write about this.
 
-## Jekyll-paginate plugin
+## 4. Jekyll-paginate plugin
 
 Another error that popped up was: 
 
