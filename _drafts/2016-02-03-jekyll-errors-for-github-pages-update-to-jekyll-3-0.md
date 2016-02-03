@@ -19,7 +19,7 @@ This was easy: I just removed the `relative_permalinks` clause in the config fil
 
 But, after the announcement, I couldn't build anymore the site for a project I am working on, so I `git pull`ed, updated my local project dependencies with `gem update github-pages` and tried to `jekyll serve`.
 
-It gave me an error of `missing dependency: kramdown`, so asking Google how should I resolve this and it told me to `gem install kramdown` or add `gem 'kramdown'` to the `Gemfile`. This didn't work for me.
+It gave me an error of `missing dependency: kramdown`, so I asked Google how should I resolve this and it told me to `gem install kramdown` or add `gem 'kramdown'` to the `Gemfile`. This didn't work for me.
 
 After some other searches I found the solution in [this post from Tom Elliot](http://telliott.io/2015/07/27/how-i-broke-jekyll-with-my-gemfile.html). Basically now I just have a `Gemfile` made like this:
 
@@ -45,11 +45,11 @@ When I ran `jekyll serve` it gave me a `stack level too deep exception in _layou
 
 Again Google gave me some hint by pointing me at [an issue](https://github.com/jekyll/jekyll/issues/3207) on Jekyll GitHub repository.
 
-I searched for all the occurences of `jsonify` in my templates and I found I was using `var post = {{ page | jsonify }};`.
+I searched for all the occurences of `jsonify` in my templates and I found I was using `var post = {% raw %}{{ page | jsonify }}{% endraw %};`.
 
-I tried to replace it with `var post = {{ page }};` and so I could `jekyll serve` without errors.
+I tried to replace it with `var post = {% raw %}{{ page }}{% endraw %};` and so I could `jekyll serve` without errors.
 
-Unfortunately this would not work for me since the output of `{{ page }}` is obviously not a valid json, so I had to replace that row in my template with this:
+Unfortunately this would not work for me since the output of `{% raw %}{{ page }}{% endraw %}` is obviously not a valid json, so I had to replace that row in my template with this:
 
 ``` javascript
 var post = {
