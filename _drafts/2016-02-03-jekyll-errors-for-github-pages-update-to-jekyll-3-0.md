@@ -19,7 +19,7 @@ This was easy: I just removed the `relative_permalinks` clause in the config fil
 
 But, after the announcement, I couldn't build anymore the site for a project I am working on, so I `git pull`ed, updated my local project dependencies with `gem update github-pages` and tried to `jekyll serve`.
 
-It gave me an error of `missing dependency: kramdown`, so asking Google how should I resolve this and it told me to `gem install kramdown` or add `gem 'kramdown'` to the `Gemfile`. This didn't work for me.
+It gave me an error of `missing dependency: kramdown`, so I asked Google how should I resolve this and it told me to `gem install kramdown` or add `gem 'kramdown'` to the `Gemfile`. This didn't work for me.
 
 After some other searches I found the solution in [this post from Tom Elliot](http://telliott.io/2015/07/27/how-i-broke-jekyll-with-my-gemfile.html). Basically now I just have a `Gemfile` made like this:
 
