@@ -45,11 +45,11 @@ When I ran `jekyll serve` it gave me a `stack level too deep exception in _layou
 
 Again Google gave me some hint by pointing me at [an issue](https://github.com/jekyll/jekyll/issues/3207) on Jekyll GitHub repository.
 
-I searched for all the occurences of `jsonify` in my templates and I found I was using `var post = {{ page | jsonify }};`.
+I searched for all the occurences of `jsonify` in my templates and I found I was using `var post = {% raw %}{{ page | jsonify }}{% endraw %};`.
 
-I tried to replace it with `var post = {{ page }};` and so I could `jekyll serve` without errors.
+I tried to replace it with `var post = {% raw %}{{ page }}{% endraw %};` and so I could `jekyll serve` without errors.
 
-Unfortunately this would not work for me since the output of `{{ page }}` is obviously not a valid json, so I had to replace that row in my template with this:
+Unfortunately this would not work for me since the output of `{% raw %}{{ page }}{% endraw %}` is obviously not a valid json, so I had to replace that row in my template with this:
 
 ``` javascript
 var post = {
