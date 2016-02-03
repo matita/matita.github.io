@@ -53,9 +53,9 @@ Unfortunately this would not work for me since the output of `{{ page }}` is obv
 
 ``` javascript
 var post = {
-	title   : {{ page.title | jsonify }},
-    path    : {{ page.path | jsonify }},
-    content : {{ page.content | jsonify }}
+	title   : {% raw %}{{ page.title | jsonify }}{% endraw %},
+    path    : {% raw %}{{ page.path | jsonify }}{% endraw %},
+    content : {% raw %}{{ page.content | jsonify }}{% endraw %}
 };
 ```
 
