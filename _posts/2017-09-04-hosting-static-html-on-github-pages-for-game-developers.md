@@ -12,7 +12,7 @@ Easy answer: [GitHub Pages](https://pages.github.com/).
 ## What is GitHub Pages?
 
 I assume you already know [GitHub](https://github.com/).  
-In case you don't (shame on you) we can say that it is a repository where you can share the code of your projects.  
+In case you don't (shame on you) we can say that it is an online repository where you can share the code of your projects.  
 If your project consists of HTML, JavaScript and CSS, GitHub gives us the possibility to render this code in a fully functional website, using the GitHub Pages feature.
 Your project website will be accessible via an URL like this: `https://{your-github-username}.github.io/{your-project-name}/`.
 
@@ -58,4 +58,4 @@ In order to use GitHub you better have Git installed on your machine, so:
 
 ## Upload your html files to GitHub repository
 
-1. On your computer open a command line 
+1. On your computer open a command line in the directory where you have your html files
