@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Link to create events on Google Calendar
 ---
 This is something I periodically search for, so I decided to finally write it down somewhere.
