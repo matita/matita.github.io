@@ -9,14 +9,16 @@ That dreadful time that marked the end of coding in my career.
 I am now the the Head of Frontend Development.
 
 ## What does it mean?
-Well, I still have to figure it out completely, for sure it means much more things to do, most of them not code related.
+I still have to figure it out completely, for sure it means much more things to do, most of them not code related.
 
 ## Am I ready?
 Yes.  
 If I wasn't my employers wouldn't have promoted me.  
 Furthermore, it's quite some months that I'm doing kinda the same job, only the name of the position is changed.
 
+## Ok, but am I actually ready?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDY4Mzc2NiwxODM1MzY2NTkwLC04MT
-MzMTkxMTYsLTMxMTAwNTYyMV19
+eyJoaXN0b3J5IjpbMjA4NjMyMjE5LDE4MzUzNjY1OTAsLTgxMz
+MxOTExNiwtMzExMDA1NjIxXX0=
 -->
