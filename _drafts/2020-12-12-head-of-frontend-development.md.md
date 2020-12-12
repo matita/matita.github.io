@@ -18,8 +18,8 @@ Furthermore, it's quite some months that I'm doing kinda the same job, only the 
 
 ## Ok, but am I actually ready?
 Weeeeell...  
-The impostor sindrome is behind the corner
+The impostor sindrome is behind the corner and I'm definitely out of my comfort zone.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzE1NDAwMzQsMTgzNTM2NjU5MCwtOD
-EzMzE5MTE2LC0zMTEwMDU2MjFdfQ==
+eyJoaXN0b3J5IjpbMTg2NTQ0NTkwLDE4MzUzNjY1OTAsLTgxMz
+MxOTExNiwtMzExMDA1NjIxXX0=
 -->
