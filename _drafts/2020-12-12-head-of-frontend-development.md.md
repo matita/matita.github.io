@@ -1,7 +1,10 @@
 ---
 layout: post
 published: false
-title: 
+title: Head of frontend development
+---
+
+The time has come
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzYyODUyOF19
+eyJoaXN0b3J5IjpbLTMxMTAwNTYyMV19
 -->
