@@ -17,8 +17,9 @@ If I wasn't my employers wouldn't have promoted me.
 Furthermore, it's quite some months that I'm doing kinda the same job, only the name of the position is changed.
 
 ## Ok, but am I actually ready?
-
+Weeeeell...  
+The impostor sindrome is behind the corner
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjMyMjE5LDE4MzUzNjY1OTAsLTgxMz
-MxOTExNiwtMzExMDA1NjIxXX0=
+eyJoaXN0b3J5IjpbLTEzMzE1NDAwMzQsMTgzNTM2NjU5MCwtOD
+EzMzE5MTE2LC0zMTEwMDU2MjFdfQ==
 -->
