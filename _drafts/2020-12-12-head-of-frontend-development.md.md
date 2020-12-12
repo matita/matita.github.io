@@ -14,9 +14,9 @@ Well, I still have to figure it out completely, for sure it means much more thin
 ## Am I ready?
 Yes.  
 If I wasn't my employers wouldn't have promoted me.  
-Also, 
+Furthermore, it's quite some months that I'm doing kinda the same job, only the name of the position is changed.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU0OTExNDcsMTgzNTM2NjU5MCwtOD
-EzMzE5MTE2LC0zMTEwMDU2MjFdfQ==
+eyJoaXN0b3J5IjpbMTQwNDY4Mzc2NiwxODM1MzY2NTkwLC04MT
+MzMTkxMTYsLTMxMTAwNTYyMV19
 -->
