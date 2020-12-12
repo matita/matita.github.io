@@ -11,9 +11,12 @@ I am now the the Head of Frontend Development.
 ## What does it mean?
 Well, I still have to figure it out completely, for sure it means much more things to do, most of them not code related.
 
-## Am I ready
+## Am I ready?
+Yes.  
+If I wasn't my employers wouldn't have promoted me.  
+Also, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODcwMTQxNiwxODM1MzY2NTkwLC04MT
-MzMTkxMTYsLTMxMTAwNTYyMV19
+eyJoaXN0b3J5IjpbLTE0MjU0OTExNDcsMTgzNTM2NjU5MCwtOD
+EzMzE5MTE2LC0zMTEwMDU2MjFdfQ==
 -->
