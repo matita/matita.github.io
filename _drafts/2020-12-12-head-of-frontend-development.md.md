@@ -34,9 +34,9 @@ I know for a fact that I'm still making mistakes, but I need to understand what 
 * **Be in my place**: I still need to find my place, but for sure there are things that are totally outside of my scope. Being the Head of Development doesn't mean that I can do whatever I want, I still have duties, tasks and directions that are not decided by me. If I have ideas I have to find the right time and way to tell them.
 
 ## Conclusions
-This is already a lot to work on, I hope to be able to master all of them as soon as possible
+This is already a lot to work on, I hope to be able to master all of them as soon as possible, even though for sure there will be many more points to add in the list of things to improve.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDgwNDUxOSwxMjU3Njk2MTM2LDgyOD
-E1NzcxOCwxMTY2NjY1MzMzLDQ4OTg4Mjg0NiwxMjI3NTI2MDEy
-LDE4MzUzNjY1OTAsLTgxMzMxOTExNiwtMzExMDA1NjIxXX0=
+eyJoaXN0b3J5IjpbNTcyODcxNTcxLDEyNTc2OTYxMzYsODI4MT
+U3NzE4LDExNjY2NjUzMzMsNDg5ODgyODQ2LDEyMjc1MjYwMTIs
+MTgzNTM2NjU5MCwtODEzMzE5MTE2LC0zMTEwMDU2MjFdfQ==
 -->
