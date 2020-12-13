@@ -19,8 +19,8 @@ Furthermore, it's quite some months that I'm doing kinda the same job, only the 
 ## Ok, but am I actually ready?
 Weeeeell...  
 The impostor sindrome is behind the corner and I'm definitely out of my comfort zone.  
-
+For sure there are still a lot of things that I have to learn, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzUyNjAxMiwxODM1MzY2NTkwLC04MT
-MzMTkxMTYsLTMxMTAwNTYyMV19
+eyJoaXN0b3J5IjpbLTE5MDQ4NDMyNTUsMTIyNzUyNjAxMiwxOD
+M1MzY2NTkwLC04MTMzMTkxMTYsLTMxMTAwNTYyMV19
 -->
