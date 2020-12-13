@@ -25,9 +25,10 @@ For sure there are still a lot of things that I have to learn, but I'm taking it
 
 I know for a fact that I'm still making mistakes, but I need to understand what are my weaknesses and how to address them.
 
-* Prioritize tasks: as said there are a lot of things to do, also I have a bunch of old tasks that have been piled because of urgencies and those have to be dequeued too. 
+* Prioritize tasks: as said there are a lot of things to do, also I have a bunch of old tasks that have been piled because of urgencies and those have to be dequeued too. I surely need to understand how many things I have to do and be able to pick the right thing to do at the right time.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk2MTg5OTQsNDg5ODgyODQ2LDEyMj
-c1MjYwMTIsMTgzNTM2NjU5MCwtODEzMzE5MTE2LC0zMTEwMDU2
-MjFdfQ==
+eyJoaXN0b3J5IjpbMTE2NjY2NTMzMyw0ODk4ODI4NDYsMTIyNz
+UyNjAxMiwxODM1MzY2NTkwLC04MTMzMTkxMTYsLTMxMTAwNTYy
+MV19
 -->
