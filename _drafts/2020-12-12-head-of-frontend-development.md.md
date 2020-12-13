@@ -25,9 +25,9 @@ For sure there are still a lot of things that I have to learn, but I'm taking it
 
 I know for a fact that I'm still making mistakes, but I need to understand what are my weaknesses and how to address them.
 
-
+* Prioritize tasks: as said there are a lot of things to do
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzUzMzA4OCw0ODk4ODI4NDYsMTIyNz
+eyJoaXN0b3J5IjpbMTgyNzA4NDM1MCw0ODk4ODI4NDYsMTIyNz
 UyNjAxMiwxODM1MzY2NTkwLC04MTMzMTkxMTYsLTMxMTAwNTYy
 MV19
 -->
