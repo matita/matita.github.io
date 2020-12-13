@@ -19,8 +19,10 @@ Furthermore, it's quite some months that I'm doing kinda the same job, only the 
 ## Ok, but am I actually ready?
 Weeeeell...  
 The impostor sindrome is behind the corner and I'm definitely out of my comfort zone.  
-For sure there are still a lot of things that I have to learn, 
+For sure there are still a lot of things that I have to learn, but I'm taking it as a new challenge, probably the first real challenge in a while.
+
+I know for a fact that I'm still making mistakes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQ4NDMyNTUsMTIyNzUyNjAxMiwxOD
-M1MzY2NTkwLC04MTMzMTkxMTYsLTMxMTAwNTYyMV19
+eyJoaXN0b3J5IjpbNDg5ODgyODQ2LDEyMjc1MjYwMTIsMTgzNT
+M2NjU5MCwtODEzMzE5MTE2LC0zMTEwMDU2MjFdfQ==
 -->
