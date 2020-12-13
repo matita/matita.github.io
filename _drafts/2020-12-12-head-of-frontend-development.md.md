@@ -26,9 +26,9 @@ For sure there are still a lot of things that I have to learn, but I'm taking it
 I know for a fact that I'm still making mistakes, but I need to understand what are my weaknesses and how to address them.
 
 * Prioritize tasks: as said there are a lot of things to do, also I have a bunch of old tasks that have been piled because of urgencies and those have to be dequeued too. I surely need to understand how many things I have to do and be able to pick the right thing to do at the right time.
-* Delegate: from now on (actually it's been like this for quite some time) I won't be able to code as much as I'd like, this means that 
+* Delegate: from now on (actually it's been like this for quite some time) I won't be able to code as much as I'd like, this means that I'll have to tell other people what to do and how, also about topics that have be
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTQ0ODM2NywxMTY2NjY1MzMzLDQ4OT
-g4Mjg0NiwxMjI3NTI2MDEyLDE4MzUzNjY1OTAsLTgxMzMxOTEx
-NiwtMzExMDA1NjIxXX0=
+eyJoaXN0b3J5IjpbLTE5NDg4OTUwMzcsMTE2NjY2NTMzMyw0OD
+k4ODI4NDYsMTIyNzUyNjAxMiwxODM1MzY2NTkwLC04MTMzMTkx
+MTYsLTMxMTAwNTYyMV19
 -->
