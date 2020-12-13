@@ -21,7 +21,7 @@ Furthermore, it's quite some months that I'm doing kinda the same job, only the 
 ## Ok, but am I actually ready?
 Weeeeell...  
 The impostor sindrome is behind the corner and I'm definitely out of my comfort zone.  
-I thought it was just a change of name, but the du
+I thought it was just a change of name, but the duties were kinda the same. And probably it's true, but the label itself put a lot of pressure on me, even unco.  
 For sure there are still a lot of things that I have to learn, but I'm taking it as a new challenge, probably the biggest challenge in a while.
 
 I know for a fact that I'm still making mistakes, but I need to understand what are my weaknesses and how to address them.
@@ -37,5 +37,5 @@ I know for a fact that I'm still making mistakes, but I need to understand what 
 ## Conclusions
 This is already a lot to work on, I hope to be able to master all of them as soon as possible, even though for sure there will be many more points to add in the list of things to improve.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMzI1ODI1XX0=
+eyJoaXN0b3J5IjpbLTU3NjMwMDUwOF19
 -->
