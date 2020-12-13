@@ -31,8 +31,9 @@ I know for a fact that I'm still making mistakes, but I need to understand what 
 * **Study, a lot**: this is almost a new field to me, at least with this perspective and scale, for sure my next readings won't be about code anymore, at least not only about code, but about team management and leadership.
 * **Accept criticisms**: luckily I'm already prepared on this, I'm rarely offended and always willing to improve myself, but I have to be ready to hear a lot more criticisms because I'll surely do a lot of mistakes. The key is not giving up, understand which was the mistake and how to avoid it next time, and not feeling like a complete failure.
 * **Be listening but firm**: I have to learn to be more authoritative, but without letting people down.
+* **Be in my place**: I still need to find my place, but for sure the
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzY5NjEzNiw4MjgxNTc3MTgsMTE2Nj
-Y2NTMzMyw0ODk4ODI4NDYsMTIyNzUyNjAxMiwxODM1MzY2NTkw
-LC04MTMzMTkxMTYsLTMxMTAwNTYyMV19
+eyJoaXN0b3J5IjpbLTE4MTUyNzAyOTMsMTI1NzY5NjEzNiw4Mj
+gxNTc3MTgsMTE2NjY2NTMzMyw0ODk4ODI4NDYsMTIyNzUyNjAx
+MiwxODM1MzY2NTkwLC04MTMzMTkxMTYsLTMxMTAwNTYyMV19
 -->
