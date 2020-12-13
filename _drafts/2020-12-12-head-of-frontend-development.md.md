@@ -11,6 +11,8 @@ I am now the the Head of Frontend Development.
 ## What does it mean?
 I still have to figure it out completely, for sure it means much more things to do, most of them not code related.
 
+Mostly dealing with people, making sure they are motivated, focused on the right things and ensuring
+
 ## Am I ready?
 Yes.  
 If I wasn't my employers wouldn't have promoted me.  
@@ -23,6 +25,7 @@ For sure there are still a lot of things that I have to learn, but I'm taking it
 
 I know for a fact that I'm still making mistakes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5ODgyODQ2LDEyMjc1MjYwMTIsMTgzNT
-M2NjU5MCwtODEzMzE5MTE2LC0zMTEwMDU2MjFdfQ==
+eyJoaXN0b3J5IjpbLTgyODg1NTI4NCw0ODk4ODI4NDYsMTIyNz
+UyNjAxMiwxODM1MzY2NTkwLC04MTMzMTkxMTYsLTMxMTAwNTYy
+MV19
 -->
