@@ -27,9 +27,9 @@ I know for a fact that I'm still making mistakes, but I need to understand what 
 
 * Prioritize tasks: as said there are a lot of things to do, also I have a bunch of old tasks that have been piled because of urgencies and those have to be dequeued too. I surely need to understand how many things I have to do and be able to pick the right thing to do at the right time.
 * Delegate: from now on (actually it's been like this for quite some time) I won't be able to code as much as I'd like, this means that I'll have to tell other people what to do and how, also about topics that have been my sole responsibility so far, like deployment scripts.
-* Focus: when someone asks anything I've always tried to be the one that answers, even though 
+* Make my own business: when someone asks anything I've always tried to be the one that answers, even when it's a question with no direct addressee. I have to learn to wait for others to answer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDA2MDYwMiwxMTY2NjY1MzMzLDQ4OT
+eyJoaXN0b3J5IjpbMTA1Mjc2ODYxMiwxMTY2NjY1MzMzLDQ4OT
 g4Mjg0NiwxMjI3NTI2MDEyLDE4MzUzNjY1OTAsLTgxMzMxOTEx
 NiwtMzExMDA1NjIxXX0=
 -->
