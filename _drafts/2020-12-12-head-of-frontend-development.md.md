@@ -28,10 +28,10 @@ I know for a fact that I'm still making mistakes, but I need to understand what 
 * **Prioritize tasks**: as said there are a lot of things to do, also I have a bunch of old tasks that have been piled because of urgencies and those have to be dequeued too. I surely need to understand how many things I have to do and be able to pick the right thing to do at the right time.
 * **Delegate**: from now on (actually it's been like this for quite some time) I won't be able to code as much as I'd like, this means that I'll have to tell other people what to do and how, also about topics that have been my sole responsibility so far, like deployment scripts.
 * **Mind my own business**: when someone asks anything I've always tried to be the one that answers, even when it's a question with no direct addressee. I have to learn to wait for others to answer, mostly if I have other things to do (which always happens). Unless I'm the one mentioned, but even then it's better to redirect the question to someone else that might be able to answer: more time for me, more responsibility (with a possible side effect of more motivation) to others, two birds with one stone.
-* **Study, a lot**his is almost a new field to me, at least with this perspective and scale, for sure my next readings won't be about code anymore, at least not only about code, but about team management and leadership.
-* **Accept criticisms**.
+* **Study, a lot**: this is almost a new field to me, at least with this perspective and scale, for sure my next readings won't be about code anymore, at least not only about code, but about team management and leadership.
+* **Accept criticisms**: luckily I'm already prepared on this, I'm rarely offended
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Nzk5NDE3MiwxMTY2NjY1MzMzLDQ4OT
+eyJoaXN0b3J5IjpbMjA5MzYyNTU0NSwxMTY2NjY1MzMzLDQ4OT
 g4Mjg0NiwxMjI3NTI2MDEyLDE4MzUzNjY1OTAsLTgxMzMxOTEx
 NiwtMzExMDA1NjIxXX0=
 -->
